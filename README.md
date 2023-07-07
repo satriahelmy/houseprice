@@ -1,4 +1,4 @@
-# House Price Analisis
+# House Price Analysis
 
 ## Background
 
