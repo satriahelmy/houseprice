@@ -1,5 +1,7 @@
 # House Price Analysis
 
+![](https://github.com/satriahelmy/houseprice/blob/main/hs.jpg)
+
 ## Background
 
 Salah satu tantangan untuk menjual dan membeli rumah dewasa ini adalah menentukan harganya. Hal ini sangat penting terutama bagi penjual ataupun pembeli rumah. Kita tidak mengetahui faktor-faktor apa saja yang mempengaruhi harga rumah.
@@ -39,6 +41,9 @@ Data yang digunakan dalam penelitian kali ini adalah dengan menggunakan data har
 
 variable outcome :
 - `price` : harga rumah dalam USD
+
+## Cara Running Program
+Untuk code program berada pada file `Housing.ipynb`. Ketika sudah clone, silakan upload ke Jupyter Notebook atau Google Collab. Selanjutnya, running program dari awal.
 
 ## Penjelasan Project
 Penjelasan mengenai project ini dapat dilihat pada link berikut:
